@@ -1,10 +1,8 @@
-# :woman_technologist: Solucion de Ejercicios
+# :woman_technologist: Solución de Ejercicios
 [![](https://img.shields.io/github/last-commit/marigabi94/SolucionEjercicios?style=plastic&logo=github&logoColor=white&labelColor=101010)]()
 
 </br>
-Ejercicios de OpenBootcamp en la ruta de aprendizaje de FullStack.
-
-</br>
+Ejercicios de OpenBootcamp de la ruta de aprendizaje de FullStack.
 </br>
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
